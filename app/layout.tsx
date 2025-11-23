@@ -7,10 +7,9 @@ import { ModeToggle } from "@/components/mode-toggle";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title:
-    "Mohammed Sameer Syed - Machine Learning Engineer, Software Engineer, and AI Enthusiast",
+  title: "Qais Zaheb - Economist, Video Editor, Content Writer",
   description:
-    "Portfolio of Mohammed Sameer Syed, a Machine Learning Engineer, Software Engineer, and AI Enthusiast specializing in Machine Learning .",
+    "Portfolio of Qais Zaheb, a highly skilled Economist, Video Editor, and Content Write",
   generator: "v0.dev",
 };
 
