@@ -96,7 +96,7 @@ export default function Contact() {
               </h3>
               <div className="space-y-6">
                 <a
-                  href="mailto:musmanzafar53@gmail.com"
+                  href="mailto:zaheb82qais@gmail.com"
                   className="flex items-center text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
                 >
                   <Mail className="w-6 h-6 mr-3 text-blue-600" />

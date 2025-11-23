@@ -77,21 +77,21 @@ export default function Hero() {
             </p>
             <div className="flex justify-center lg:justify-start space-x-4 mb-8">
               <a
-                href="https://github.com/SyedMohammedSameer"
+                href="https://github.com/qaiseZahib"
                 className="p-3 rounded-full bg-white/80 hover:bg-white dark:bg-gray-800/80 dark:hover:bg-gray-800 transition-colors duration-300 shadow-lg hover:shadow-xl"
                 aria-label="GitHub Profile"
               >
                 <GitHub className="w-6 h-6 text-gray-700 dark:text-gray-300" />
               </a>
               <a
-                href="https://www.linkedin.com/in/mohammed-sameer-syed-215a011b9/"
+                href="https://www.linkedin.com/in/qais-zaheb-798b69222/"
                 className="p-3 rounded-full bg-white/80 hover:bg-white dark:bg-gray-800/80 dark:hover:bg-gray-800 transition-colors duration-300 shadow-lg hover:shadow-xl"
                 aria-label="LinkedIn Profile"
               >
                 <Linkedin className="w-6 h-6 text-gray-700 dark:text-gray-300" />
               </a>
               <a
-                href="mailto:mohammedsameersyed1@gmail.com"
+                href="mailto:zaheb82qais@gmail.com"
                 className="p-3 rounded-full bg-white/80 hover:bg-white dark:bg-gray-800/80 dark:hover:bg-gray-800 transition-colors duration-300 shadow-lg hover:shadow-xl"
                 aria-label="Email Contact"
               >
@@ -125,7 +125,7 @@ export default function Hero() {
               <div className="relative rounded-2xl overflow-hidden shadow-2xl h-[422px]">
                 <Image
                   src={Picture}
-                  alt="Usman Zafar"
+                  alt="Qaise zahib"
                   fill
                   className="object-cover h-[100px]"
                   priority
